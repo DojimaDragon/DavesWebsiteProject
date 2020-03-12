@@ -5,6 +5,11 @@ h1, h2, h3, p{
     background-color: #006400b3;
     font-family: 'Oxanium', cursive;
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
 p{
     box-sizing: border-box;
     padding: 0px 50px 0px;
