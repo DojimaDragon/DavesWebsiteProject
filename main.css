@@ -16,11 +16,22 @@ p{
 body {
     background-image: url(images/binary.jpg);
 }
+.body {
+    background-image: url(images/tallyhoe.jpg);
+}
 .container {
     display: flex;
     justify-content: center;
 }
 .container2 {
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-between;
+}
+.sitemapcontainer {
+    display: flex;
+    justify-content: space-around;
+}
+.h1 {
+    display: flex;
+    justify-content: center;
 }
